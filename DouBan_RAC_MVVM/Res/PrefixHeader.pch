@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  DouBan_RAC_MVVM
+//
+//  Created by 刘一峰 on 2017/7/4.
+//  Copyright © 2017年 刘一峰. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#import "APPHeader.h"
+#import "IMPHeader.h"
+#import "KEYHeader.h"
+#import "URLHeader.h"
+#endif /* PrefixHeader_pch */
