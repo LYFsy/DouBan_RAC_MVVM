@@ -7,19 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1C2CEA781F0DDF4A0057EA13 /* MusicAttrs.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA6D1F0DDF4A0057EA13 /* MusicAttrs.m */; settings = {ASSET_TAGS = (); }; };
-		1C2CEA791F0DDF4A0057EA13 /* MusicAuthor.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA6F1F0DDF4A0057EA13 /* MusicAuthor.m */; settings = {ASSET_TAGS = (); }; };
-		1C2CEA7A1F0DDF4A0057EA13 /* MusicData.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA711F0DDF4A0057EA13 /* MusicData.m */; settings = {ASSET_TAGS = (); }; };
-		1C2CEA7B1F0DDF4A0057EA13 /* MusicModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA731F0DDF4A0057EA13 /* MusicModel.m */; settings = {ASSET_TAGS = (); }; };
-		1C2CEA7C1F0DDF4A0057EA13 /* MusicRating.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA751F0DDF4A0057EA13 /* MusicRating.m */; settings = {ASSET_TAGS = (); }; };
-		1C2CEA7D1F0DDF4A0057EA13 /* MusicTags.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA771F0DDF4A0057EA13 /* MusicTags.m */; settings = {ASSET_TAGS = (); }; };
-		1C2CEA801F0DDF990057EA13 /* MovieVM.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA7F1F0DDF990057EA13 /* MovieVM.m */; settings = {ASSET_TAGS = (); }; };
-		1C2CEA8D1F0DE1D40057EA13 /* MovieAvatars.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA821F0DE1D40057EA13 /* MovieAvatars.m */; settings = {ASSET_TAGS = (); }; };
-		1C2CEA8E1F0DE1D40057EA13 /* MovieCasts.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA841F0DE1D40057EA13 /* MovieCasts.m */; settings = {ASSET_TAGS = (); }; };
-		1C2CEA8F1F0DE1D40057EA13 /* MovieData.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA861F0DE1D40057EA13 /* MovieData.m */; settings = {ASSET_TAGS = (); }; };
-		1C2CEA901F0DE1D40057EA13 /* MovieImages.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA881F0DE1D40057EA13 /* MovieImages.m */; settings = {ASSET_TAGS = (); }; };
-		1C2CEA911F0DE1D40057EA13 /* MovieModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA8A1F0DE1D40057EA13 /* MovieModel.m */; settings = {ASSET_TAGS = (); }; };
-		1C2CEA921F0DE1D40057EA13 /* MovieRating.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA8C1F0DE1D40057EA13 /* MovieRating.m */; settings = {ASSET_TAGS = (); }; };
+		1C26A2421F0E212800E1B23D /* LoginVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C26A2411F0E212800E1B23D /* LoginVC.m */; };
+		1C2CEA781F0DDF4A0057EA13 /* MusicAttrs.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA6D1F0DDF4A0057EA13 /* MusicAttrs.m */; };
+		1C2CEA791F0DDF4A0057EA13 /* MusicAuthor.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA6F1F0DDF4A0057EA13 /* MusicAuthor.m */; };
+		1C2CEA7A1F0DDF4A0057EA13 /* MusicData.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA711F0DDF4A0057EA13 /* MusicData.m */; };
+		1C2CEA7B1F0DDF4A0057EA13 /* MusicModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA731F0DDF4A0057EA13 /* MusicModel.m */; };
+		1C2CEA7C1F0DDF4A0057EA13 /* MusicRating.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA751F0DDF4A0057EA13 /* MusicRating.m */; };
+		1C2CEA7D1F0DDF4A0057EA13 /* MusicTags.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA771F0DDF4A0057EA13 /* MusicTags.m */; };
+		1C2CEA801F0DDF990057EA13 /* MovieVM.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA7F1F0DDF990057EA13 /* MovieVM.m */; };
+		1C2CEA8D1F0DE1D40057EA13 /* MovieAvatars.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA821F0DE1D40057EA13 /* MovieAvatars.m */; };
+		1C2CEA8E1F0DE1D40057EA13 /* MovieCasts.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA841F0DE1D40057EA13 /* MovieCasts.m */; };
+		1C2CEA8F1F0DE1D40057EA13 /* MovieData.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA861F0DE1D40057EA13 /* MovieData.m */; };
+		1C2CEA901F0DE1D40057EA13 /* MovieImages.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA881F0DE1D40057EA13 /* MovieImages.m */; };
+		1C2CEA911F0DE1D40057EA13 /* MovieModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA8A1F0DE1D40057EA13 /* MovieModel.m */; };
+		1C2CEA921F0DE1D40057EA13 /* MovieRating.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C2CEA8C1F0DE1D40057EA13 /* MovieRating.m */; };
 		1C80AA901F0CF378006AE00E /* NetworkManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C80AA8F1F0CF378006AE00E /* NetworkManager.m */; };
 		1C80AA971F0CF6CF006AE00E /* BookVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C80AA931F0CF6CF006AE00E /* BookVC.m */; };
 		1C80AA9E1F0CF6DE006AE00E /* MusicVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C80AA9A1F0CF6DE006AE00E /* MusicVC.m */; };
@@ -75,6 +76,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1C26A2401F0E212800E1B23D /* LoginVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginVC.h; sourceTree = "<group>"; };
+		1C26A2411F0E212800E1B23D /* LoginVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginVC.m; sourceTree = "<group>"; };
 		1C2CEA6C1F0DDF4A0057EA13 /* MusicAttrs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MusicAttrs.h; sourceTree = "<group>"; };
 		1C2CEA6D1F0DDF4A0057EA13 /* MusicAttrs.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MusicAttrs.m; sourceTree = "<group>"; };
 		1C2CEA6E1F0DDF4A0057EA13 /* MusicAuthor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MusicAuthor.h; sourceTree = "<group>"; };
@@ -202,6 +205,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1C26A23F1F0E20F000E1B23D /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				1C26A2401F0E212800E1B23D /* LoginVC.h */,
+				1C26A2411F0E212800E1B23D /* LoginVC.m */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
 		1C80AA911F0CF6CF006AE00E /* Controller */ = {
 			isa = PBXGroup;
 			children = (
@@ -404,6 +416,7 @@
 		1C8CC9F31F0B6B76005E2664 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				1C26A23F1F0E20F000E1B23D /* Login */,
 				1CC923EE1F0B72C300DBA614 /* Book */,
 				1CC923F21F0B72C300DBA614 /* Music */,
 				1CC923FA1F0B731E00DBA614 /* Movie */,
@@ -776,6 +789,7 @@
 				1C2CEA8E1F0DE1D40057EA13 /* MovieCasts.m in Sources */,
 				1C80AAC31F0D0D88006AE00E /* Series.m in Sources */,
 				1C80AAE61F0D4CDB006AE00E /* MusicCellFactory.m in Sources */,
+				1C26A2421F0E212800E1B23D /* LoginVC.m in Sources */,
 				1C80AAC21F0D0D88006AE00E /* Rating.m in Sources */,
 				1C2CEA911F0DE1D40057EA13 /* MovieModel.m in Sources */,
 				1C2CEA801F0DDF990057EA13 /* MovieVM.m in Sources */,
